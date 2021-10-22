@@ -44,8 +44,8 @@ console.log('a+b='+(son1+son2))
 console.log('a*b='+(son1*son2))
 console.log('a^2='+(son1*son1))
 console.log('b^2='+(son2*son2))
-console.log('|a|+'+Math.abs(son1))
-console.log('|b|+'+Math.abs(son2))
+console.log('|a|='+Math.abs(son1))
+console.log('|b|='+Math.abs(son2))
 
 console.log('12-misol')
 var katet1=9
